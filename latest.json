@@ -1,0 +1,9 @@
+{
+  "format": "complex-control-encrypted-feed-v1",
+  "version": "0.7.2",
+  "commit": "29b275d67564323b526d8c148f0db9a3f1b01e26",
+  "created_at": "2026-11-04T11:12:44-05:00",
+  "bundle_url": "https://raw.githubusercontent.com/howwee20/complex-control-updates/main/releases/29b275d67564323b526d8c148f0db9a3f1b01e26.cms",
+  "sha256": "7bc815714da5302e6dcbe8754a3523ef5175d343cbf69c0bb9f2bf41b85effd0",
+  "bytes": 34076239
+}
