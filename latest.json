@@ -1,9 +1,9 @@
 {
   "format": "complex-control-encrypted-feed-v1",
-  "version": "0.7.6-testbed1",
-  "commit": "d615d18d5043aa0e98dfb91271688dd91d70546f",
-  "created_at": "2026-11-12T01:50:07.029942+00:00",
-  "bundle_url": "https://raw.githubusercontent.com/howwee20/complex-control-updates/main/releases/d615d18d5043aa0e98dfb91271688dd91d70546f-f11d73d912ac8d80e883.cms",
-  "sha256": "f11d73d912ac8d80e883f1fc58762ca4094273deb85e125e99296b5b7b97cb54",
-  "bytes": 25273729
+  "version": "0.7.5",
+  "commit": "07670b886201dcf1a4b665db24e2c240625ed1eb",
+  "created_at": "2026-11-04T11:40:14-05:00",
+  "bundle_url": "https://raw.githubusercontent.com/howwee20/complex-control-updates/main/releases/07670b886201dcf1a4b665db24e2c240625ed1eb-9b3480ba96edbdfeeb4e.cms",
+  "sha256": "9b3480ba96edbdfeeb4e9835dc0efa0b5e0e8259be8e6f4186a53d283e3cff73",
+  "bytes": 34075266
 }
